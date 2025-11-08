@@ -39,8 +39,7 @@ By completing this practical, I achieved the following:
 
 Cypress Test Results
 
-![alt text](image.png)
-
+![alt text](gui-testing/image.png)
 
 ### Conclusion
 
